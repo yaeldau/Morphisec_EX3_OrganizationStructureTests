@@ -41,3 +41,17 @@ salary.
   
 Your assignment is to implement tests for the system that give us good coverage for the
 requirements (use for example unit tests, integration tests etc…)
+
+##
+## instructions
+
+- Open a git shell and traverse to a directory in your computer where you wish to store
+the code.
+    Execute the following command:
+    ```shell
+    $ git clone https://github.com/yaeldau/Morphisec_EX3_OrganizationStructureTests.git
+    ```
+
+- open the project in IntelliJ.
+
+- Right-click the "test" directory in the Project tool window. On the context menu, choose **Run 'All Tests'** .

@@ -49,18 +49,4 @@ public class EmployeeTest {
         emp.finishAllTasks();
     }
 
-//    @Test void setFirstName(){
-//        emp.setFirstName("Yael");
-//        assertEquals("Yael", emp.getFirstName());
-//    }
-//
-//    @Test void setLastName(){
-//        emp.setLastName("Dauber");
-//        assertEquals("Dauber", emp.getLastName());
-//    }
-//
-//    @Test void id(){
-//        emp.setId("1234");
-//        assertEquals("1234", emp.getId());
-//    }
 }
