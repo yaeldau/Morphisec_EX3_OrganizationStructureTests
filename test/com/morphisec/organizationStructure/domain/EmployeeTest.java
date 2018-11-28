@@ -46,7 +46,23 @@ public class EmployeeTest {
 
     @Test
     public void finishAllTasks() {
-        emp.finishAllTasks();
+        emptyEmp.finishAllTasks();
+    }
+
+    @Test
+    public  void setFirstName(){
+        emp.setFirstName("Yael2");
+    }
+
+    @Test
+    public  void setLastName(){
+        emp.setLastName("Dauber2");
+    }
+
+    @Test
+    public  void id(){
+        emp.setId("1234");
+        assertEquals("1234", emp.getId());
     }
 
 }

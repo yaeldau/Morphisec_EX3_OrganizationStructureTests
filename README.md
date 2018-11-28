@@ -54,4 +54,4 @@ the code.
 
 - open the project in IntelliJ.
 
-- Right-click the "test" directory in the Project tool window. On the context menu, choose **Run 'All Tests'** .
+- Right-click the "test" directory in the Project tool window. On the context menu, choose **Run 'All Tests' with Coverage** .
